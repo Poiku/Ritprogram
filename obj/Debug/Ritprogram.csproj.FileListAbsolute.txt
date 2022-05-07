@@ -1,0 +1,10 @@
+D:\Övriga filer\Visual Studio\Projekt\Ritprogram\bin\Debug\Ritprogram.exe.config
+D:\Övriga filer\Visual Studio\Projekt\Ritprogram\bin\Debug\Ritprogram.exe
+D:\Övriga filer\Visual Studio\Projekt\Ritprogram\bin\Debug\Ritprogram.pdb
+D:\Övriga filer\Visual Studio\Projekt\Ritprogram\obj\Debug\Ritprogram.Properties.Resources.resources
+D:\Övriga filer\Visual Studio\Projekt\Ritprogram\obj\Debug\Ritprogram.csproj.GenerateResource.cache
+D:\Övriga filer\Visual Studio\Projekt\Ritprogram\obj\Debug\Ritprogram.csproj.CoreCompileInputs.cache
+D:\Övriga filer\Visual Studio\Projekt\Ritprogram\obj\Debug\Ritprogram.exe
+D:\Övriga filer\Visual Studio\Projekt\Ritprogram\obj\Debug\Ritprogram.pdb
+D:\Övriga filer\Visual Studio\Projekt\Ritprogram\obj\Debug\Ritprogram.csproj.AssemblyReference.cache
+D:\Övriga filer\Visual Studio\Projekt\Ritprogram\obj\Debug\Ritprogram.Rifönster.resources
